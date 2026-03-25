@@ -1,6 +1,6 @@
 # olá, Mundo!
 primeiro teste
 
-Primeiro teste para programar
+Primeiro teste para **programar**
 
-alterei no site diretamente
+alterei no site *diretamente*
